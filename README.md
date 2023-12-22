@@ -1,7 +1,13 @@
-- 👋 Hi, I’m @AgilHa
-- 👀 I’m interested in game-developer
-- 🌱 I’m currently learning full stack-development
-- 💞️ I’m looking to collaborate on Tencent Games
+"Gil, hack akun mantan aku dong"
+"Oi, tolong benerin printer co"
+"Kamu bisa bobol wifi tetangga gak?"
+"Eh Gil,hack ExamBrowser lah biar bisa nyontek aoalwkwajja"
+"Gaji programmer kan tinggi, nanti traktir yak"
+"Gil buat web judi yok"
+
+Thx buat sarannya 👍
+
+
 
 <!---
 AgilHa/AgilHa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
