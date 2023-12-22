@@ -3,7 +3,7 @@
 -"Kamu bisa bobol wifi tetangga gak?"
 -"Eh Gil,hack ExamBrowser lah biar bisa nyontek aoalwkwajja"
 -"Gaji programmer kan tinggi, nanti traktir yak"
--"Gil buat web judi yok"
+-"Gil buat web judi yok" <br>
 
 Thx buat sarannya 👍
 
