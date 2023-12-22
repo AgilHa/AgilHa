@@ -1,9 +1,9 @@
-"Gil, hack akun mantan aku dong"
-"Oi, tolong benerin printer co"
-"Kamu bisa bobol wifi tetangga gak?"
-"Eh Gil,hack ExamBrowser lah biar bisa nyontek aoalwkwajja"
-"Gaji programmer kan tinggi, nanti traktir yak"
-"Gil buat web judi yok"
+-"Gil, hack akun mantan aku dong"
+-"Oi, tolong benerin printer co"
+-"Kamu bisa bobol wifi tetangga gak?"
+-"Eh Gil,hack ExamBrowser lah biar bisa nyontek aoalwkwajja"
+-"Gaji programmer kan tinggi, nanti traktir yak"
+-"Gil buat web judi yok"
 
 Thx buat sarannya 👍
 
